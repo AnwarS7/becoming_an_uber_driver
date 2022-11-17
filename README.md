@@ -370,17 +370,17 @@ The Estimated gain on average is 8% income increase by working during the recomm
 ![image](https://user-images.githubusercontent.com/103480107/202560752-0337bc52-7479-4732-a71f-067d7168a6a7.png)
 
 
-### 4. Random Forest Prediction of Fares & Surge Factor
+### 5. Random Forest Prediction of Fares & Surge Factor
 
 ![Random Forest](https://user-images.githubusercontent.com/103464869/198496870-3cb1f3b8-38ea-44e8-adae-87539f7a23d1.PNG)
 _**The model was deployed using Dataiku, the used code is exported accordingly_
 
-### 5. Global Sentiment Analysis of Customers Reviews
+### 6. Global Sentiment Analysis of Customers Reviews
 
 ![Sentiment Analysis](https://user-images.githubusercontent.com/103464869/198497400-b587e74e-115f-4da5-97b0-b2277d975f11.jpg)
 
 > Information on Polarity and Subjectivity were later used to introduce best practices and recommendations for drivers. These insights and recommendations are available on the Slide Deck of the project. 
-### 5. Data Collection using VBA form
+### 7. Data Collection using VBA form
 
 The main objective of the project was to provide useful recommendations and prediction for Uber drivers to dynamically support their decision making and allow them to achieve higher earning. 
 
@@ -388,7 +388,7 @@ The next VBA form was created to collect data from active drives in certain regi
 
 ![Excel_VBA](https://user-images.githubusercontent.com/103464869/198498185-fc34d8e6-9ea9-4aee-836a-0ec6ce31a289.PNG)
 
-### 6. Recommendations with VBA Based on Collected Data
+### 8. Recommendations with VBA Based on Collected Data
 
 ![Prediction](https://user-images.githubusercontent.com/103464869/198498811-8bfb4305-7dc4-4dbe-a5ef-417593bf8315.jpg)
 
